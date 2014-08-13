@@ -1,7 +1,8 @@
 name: PvPItUPEffects
 version: 0.1
 author: darkzonex44
-main: net.darkzonex44.Effect.effect
+main: net.darkzonex44.Effect.Effect
+depend: [EffectLib]
 commands:
    setparticle:
    
