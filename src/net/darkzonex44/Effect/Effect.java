@@ -61,7 +61,7 @@ public class Effect extends JavaPlugin {
 			   */
 			  effect.infinite(); //Never Dies Out unless someone does /reload
 			  
-			  effect.run(); //Start's Effect
+			  effect.start(); //Start's Effect
 			  p.sendMessage(ChatColor.DARK_RED + "Created..");
 			  
 			  
